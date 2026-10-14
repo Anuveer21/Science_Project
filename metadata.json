@@ -1,0 +1,6 @@
+{
+  "name": "Smart Farm AI",
+  "description": "Precision crop diagnostics and telemetry monitoring dashboard powered by Gemini vision models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
